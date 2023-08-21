@@ -1,6 +1,7 @@
 # Shadcn-UI Components Installer
 
-This repository provides scripts to automatically install a list of `shadcn-ui` components. Both Windows (`.bat`) and Unix (`.sh`) scripts are provided for convenience.
+This repository provides scripts to automatically install a list of [shadcn/ui](https://ui.shadcn.com/)
+ components. Both Windows (`.bat`) and Unix (`.sh`) scripts are provided for convenience.
 
 ## Components List
 
