@@ -60,6 +60,7 @@ Run the script
 ```bash
 ./install-components.sh
 ```
+[Copy install-components.sh](./install-components.sh)
 
 ### For Windows:
 
@@ -68,8 +69,11 @@ Simply double-click the install-components.bat file or run it through the comman
 ```bash
 install-components.bat
 ```
+[Copy install-components.bat](./install-components.bat)
 ## Notes
+- Before running these scripts, initialize shadcn-ui in your project with: `npx shadcn-ui@latest init`.
 - Ensure you have npx installed and available in your system's PATH.
+- The scripts need to be in the same project folder where you want the shadcn-ui components to be installed.
 - The scripts will automatically answer "yes" to any prompts from the shadcn-ui installer.
 - It's recommended to run these scripts in a new or isolated project directory to avoid potential conflicts with existing setups.
 
