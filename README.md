@@ -33,6 +33,8 @@ The following components are installed by the scripts:
 - `navigation-menu`
 - `popover`
 - `progress`
+- `pagination`
+- `resizable`
 - `radio-group`
 - `scroll-area`
 - `select`
@@ -40,6 +42,7 @@ The following components are installed by the scripts:
 - `sheet`
 - `skeleton`
 - `slider`
+- `sonner`
 - `switch`
 - `table`
 - `tabs`
