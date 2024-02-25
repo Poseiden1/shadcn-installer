@@ -66,6 +66,11 @@ Run the script
 ```
 [Copy install-components.sh](./install-components.sh)
 
+**alternatively** 
+```bash
+curl -s "https://raw.githubusercontent.com/Poseiden1/shadcn-installer/main/install-components.sh" | bash
+```
+
 ### For Windows:
 
 Simply double-click the install-components.bat file or run it through the command prompt:
