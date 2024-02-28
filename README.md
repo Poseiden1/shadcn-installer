@@ -33,6 +33,8 @@ The following components are installed by the scripts:
 - `navigation-menu`
 - `popover`
 - `progress`
+- `pagination`
+- `resizable`
 - `radio-group`
 - `scroll-area`
 - `select`
@@ -40,6 +42,7 @@ The following components are installed by the scripts:
 - `sheet`
 - `skeleton`
 - `slider`
+- `sonner`
 - `switch`
 - `table`
 - `tabs`
@@ -62,6 +65,11 @@ Run the script
 ./install-components.sh
 ```
 [Copy install-components.sh](./install-components.sh)
+
+**alternatively** 
+```bash
+curl -s "https://raw.githubusercontent.com/Poseiden1/shadcn-installer/main/install-components.sh" | bash
+```
 
 ### For Windows:
 
